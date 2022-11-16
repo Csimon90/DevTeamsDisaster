@@ -1,0 +1,15 @@
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\bin\Debug\net6.0\Developer.Repository.deps.json
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\bin\Debug\net6.0\Developer.Repository.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\bin\Debug\net6.0\Developer.Repository.pdb
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\bin\Debug\net6.0\Developer.Data.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\bin\Debug\net6.0\Developer.Data.pdb
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.csproj.AssemblyReference.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.AssemblyInfoInputs.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.AssemblyInfo.cs
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.csproj.CoreCompileInputs.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.csproj.CopyComplete
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\refint\Developer.Repository.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\Developer.Repository.pdb
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Repository\obj\Debug\net6.0\ref\Developer.Repository.dll

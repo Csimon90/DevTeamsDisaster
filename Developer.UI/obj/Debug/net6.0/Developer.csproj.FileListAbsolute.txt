@@ -1,0 +1,5 @@
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.UI\obj\Debug\net6.0\Developer.csproj.AssemblyReference.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.UI\obj\Debug\net6.0\Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.UI\obj\Debug\net6.0\Developer.AssemblyInfoInputs.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.UI\obj\Debug\net6.0\Developer.AssemblyInfo.cs
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.UI\obj\Debug\net6.0\Developer.csproj.CoreCompileInputs.cache

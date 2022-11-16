@@ -1,0 +1,12 @@
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\bin\Debug\net6.0\Developer.Data.deps.json
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\bin\Debug\net6.0\Developer.Data.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\bin\Debug\net6.0\Developer.Data.pdb
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.csproj.AssemblyReference.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.AssemblyInfoInputs.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.AssemblyInfo.cs
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.csproj.CoreCompileInputs.cache
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\refint\Developer.Data.dll
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\Developer.Data.pdb
+C:\efa160\codingFoundations\dotnetProjects\csharpBasics\14_TCAG\Developer.Data\obj\Debug\net6.0\ref\Developer.Data.dll

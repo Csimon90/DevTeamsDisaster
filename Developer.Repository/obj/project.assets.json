@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Developer.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Developer.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Developer.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Developer.Data/1.0.0": {
+      "type": "project",
+      "path": "../Developer.Data/Developer.Data.csproj",
+      "msbuildProject": "../Developer.Data/Developer.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Developer.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Caitlin\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\efa160\\codingFoundations\\dotnetProjects\\csharpBasics\\14_TCAG\\Developer.Repository\\Developer.Repository.csproj",
+      "projectName": "Developer.Repository",
+      "projectPath": "C:\\efa160\\codingFoundations\\dotnetProjects\\csharpBasics\\14_TCAG\\Developer.Repository\\Developer.Repository.csproj",
+      "packagesPath": "C:\\Users\\Caitlin\\.nuget\\packages\\",
+      "outputPath": "C:\\efa160\\codingFoundations\\dotnetProjects\\csharpBasics\\14_TCAG\\Developer.Repository\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Caitlin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\efa160\\codingFoundations\\dotnetProjects\\csharpBasics\\14_TCAG\\Developer.Data\\Developer.Data.csproj": {
+              "projectPath": "C:\\efa160\\codingFoundations\\dotnetProjects\\csharpBasics\\14_TCAG\\Developer.Data\\Developer.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
